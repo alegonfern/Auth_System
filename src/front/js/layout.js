@@ -10,6 +10,7 @@ import { Private } from "./pages/private";
 import injectContext from "./store/appContext";
 import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";
+import { BackendURL } from "./component/backendURL";
 
 //create your first component
 const Layout = () => {
